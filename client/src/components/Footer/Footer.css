@@ -1,0 +1,17 @@
+.footer-div {
+    /* margin-top: 20vh; */
+    position: absolute;
+    bottom: 0;
+    margin: 20px;
+}
+
+.footer-p, a {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #A9A9A9;
+    font-family: 'Montserrat', sans-serif;
+}
+

@@ -1,0 +1,91 @@
+
+.icon {
+    margin-top: 40px;
+}
+
+.uploadSucces {
+    margin-top: 11px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #4F4F4F;
+
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+
+    letter-spacing: -0.035em;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imageBox2 {
+    margin: auto;
+    margin-top: 12px;
+    height: 220px;
+    max-width: 338px;
+    border-radius: 12px;
+    background-color: #F6F8FB;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='12' ry='12' stroke='%2397BEF4FF' stroke-width='4' stroke-dasharray='' stroke-dashoffset='4' stroke-linecap='square'/%3e%3c/svg%3e");
+    border-radius: 12px;
+    overflow: hidden;
+
+}
+
+.uploadedImage {
+    height: 220px;
+    max-width: 338px;
+    
+}
+
+.copy-link-div {
+    margin-left: 32px;
+    margin-top: 26px;
+    width: 338px;
+    height: 34px;
+    background: #F6F8FB;
+    border: 1px solid #E0E0E0;
+    border-radius: 8px;
+
+}
+
+
+
+.copyButton {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: -0.035em;
+    color: #FFFFFF;
+    height: 34px;
+    width: 76px;
+    background: #2F80ED;
+    border-style: none;
+    border-radius: 12px;
+}
+.copyButton:hover {
+    cursor: pointer;
+    background: #5f99e4;
+}
+.copyButton:active, :focus{
+    outline: none;
+    background: #0a2f61;
+}
+
+.copy-link {
+    width: 260px;
+    border-style: none;
+    height: 32px;
+    border-radius: 12px 0px 0px 12px;
+
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.035em;
+}
+
+.copy-link:focus {
+    background: #E0E0E0;
+}

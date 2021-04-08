@@ -1,0 +1,24 @@
+.progress-window {
+    width: 400.36px;
+    height: 143.57px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
+.upload-text {
+    margin: 32px 32px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+}
+#progress {
+    margin: 0px 30px ;
+    width: 340.71px;
+    height: 15px;    
+}
+
